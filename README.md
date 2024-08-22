@@ -45,6 +45,28 @@ Topics
 
 [Azure Data Engineering Exercises](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
 
+- [ ] [Explore Azure Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/01-Explore-Azure-Synapse.html)
+- [ ] [Analyze data in a data lake with Spark](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/02-Analyze-data-with-sql.html)
+- [ ] [Transform files using a serverless SQL pool](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/03-Transform-data-with-sql.html)
+- [ ] [Analyze data in a lake database](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/04-Create-a-Lake-Database.html)
+- [ ] [Analyze data in a data lake with Spark](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/05-Analyze-files-with-Spark.html)
+- [ ] [Transform data using Spark in Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/06-Transform-Data-with-Spark.html)
+- [ ] [Use Delta Lake with Spark in Azure Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/07-Use-delta-lake.html)
+- [ ] [Explore a relational data warehouse](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/08-Explore-data-warehouse.html)
+- [ ] [Load Data into a Relational Data Warehouse](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/09-Load-Data-into-Data-Warehouse.html)
+- [ ] [Build a data pipeline in Azure Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/10-Synpase-pipeline.html)
+- [ ] [Use an Apache Spark notebook in a pipeline](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/11-Spark-nobook-in-Synapse-Pipeline.html)
+- [ ] [Use Azure Synapse Link for Azure Cosmos DB](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/14-Synapselink-cosmos.html)
+- [ ] [Use Azure Synapse Link for SQL](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/15-Synapse-link-sql.html)
+- [ ] [Get started with Azure Stream Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/17-stream-analytics.html)
+- [ ] [Ingest realtime data with Azure Stream Analytics and Azure Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/18-Ingest-stream-synapse.html)
+- [ ] [Create a realtime report with Azure Stream Analytics and Microsoft Power BI](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/19-Stream-Power-BI.html)
+- [ ] [Use Microsoft Purview with Azure Synapse Analytics](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/22-Synapse-purview.html)
+- [ ] [Explore Azure Databricks](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/23-Explore-Azure-Databricks.html)
+- [ ] [Use Spark in Azure Databricks](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/24-Analyze-Files-in-Azure-Databricks.html)
+- [ ] [Use Delta Lake in Azure Databricks](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/25-Delta-lake-in-Azure-Databricks.html)
+- [ ] [Use a SQL Warehouse in Azure Databricks](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/26-Azure-Databricks-SQL.html)
+- [ ] [Automate an Azure Databricks Notebook with Azure Data Factory](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/27-Azure-Databricks-Data-Factory.html)
 
 ### On Demand Instructor-led Training Series
 
