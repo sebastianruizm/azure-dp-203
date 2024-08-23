@@ -41,7 +41,7 @@ Topics
 - [ ] [Use Apache Spark in Azure Databricks](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-azure-databricks/)
 - [ ] [Run Azure Databricks Notebooks with Azure Data Factory](https://learn.microsoft.com/en-us/training/modules/run-azure-databricks-notebooks-azure-data-factory/)
 
-### Excercises
+### Exercises
 
 [Azure Data Engineering Exercises](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
 
