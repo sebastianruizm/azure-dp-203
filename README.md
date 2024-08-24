@@ -89,6 +89,10 @@ Topics
 - [ ] [Preparing for DP-203 Develop data processing (2 of 3)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-dp-203-develop-data-processing-2-of-3)
 - [ ] [Preparing for DP-203 Secure, monitor, and optimize data storage and data processing (3 of 3)](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-dp-203-secure-monitor-and-optimize-data-storage-and-data-processing-3-of-3)
 
+### Practice Assessments
+
+- [ ] [DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/practice/assessment?assessment-type=practice&assessmentId=49&practice-assessment-type=certification)
+
 ## Paid Courses
 
 ### A Cloud Guru
