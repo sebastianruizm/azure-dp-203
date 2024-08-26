@@ -2,7 +2,7 @@
 
 [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer)
 
-Topics
+Skills at a glance
 - Design and implement data storage (15–20%)
 - Develop data processing (40–45%)
 - Secure, monitor, and optimize data storage and data processing (30–35%)
